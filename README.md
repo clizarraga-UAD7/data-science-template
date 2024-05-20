@@ -7,4 +7,3 @@ In your Github Repository use funtion **+ Create New Import** and follow instruc
 (Original: https://github.com/khuyentran1401/data-science-template/tree/prefect-poetry)
 
 
-**Visitar información en el [Wiki](https://github.com/clizarraga-UAD7/data-science-template/wiki)**
